@@ -1,2 +1,2 @@
 # documentations
-some docs for shopex
+UED前端开发规范
